@@ -1,0 +1,19 @@
+{
+    "name": "styde/oop",
+    "description": "Proyecto demo para el curso de programacion orientada a objetosos",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Julio Cesar",
+            "email": "vcjuliocesar@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "files":["src/helpers.php"],
+      "psr-4": {
+        "Styde\\": "src/"
+      }
+    }
+}

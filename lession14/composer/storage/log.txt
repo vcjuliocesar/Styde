@@ -1,0 +1,22 @@
+(2017-11-02 02:00:59) Julio dispara una flecha de fuego a Ramm
+(2017-11-02 02:00:59) Ramm ahora tiene 10 puntos de vida
+(2017-11-02 02:00:59) Julio dispara una flecha de fuego a Ramm
+(2017-11-02 02:00:59) Ramm ahora tiene -20 puntos de vida
+(2017-11-02 02:00:59) Ramm muere
+(2017-11-07 23:51:18) Julio dispara una flecha de fuego a Ramm
+(2017-11-07 23:51:18) Ramm ahora tiene 10 puntos de vida
+(2017-11-07 23:51:18) Julio dispara una flecha de fuego a Ramm
+(2017-11-07 23:51:18) Ramm ahora tiene -20 puntos de vida
+(2017-11-07 23:51:18) Ramm muere
+(2017-11-09 19:35:02) Julio dispara una flecha de fuego a Ramm
+(2017-11-09 19:35:02) Ramm ahora tiene 70 puntos de vida
+(2017-11-09 19:35:02) Julio dispara una flecha de fuego a Ramm
+(2017-11-09 19:35:02) Ramm ahora tiene 40 puntos de vida
+(2017-11-09 19:35:02) Ramm ataca con la espada a Julio
+(2017-11-09 19:35:02) Julio ahora tiene 70 puntos de vida
+(2017-11-09 19:35:23) Julio dispara una flecha de fuego a Ramm
+(2017-11-09 19:35:23) Ramm ahora tiene 70 puntos de vida
+(2017-11-09 19:35:23) Julio dispara una flecha de fuego a Ramm
+(2017-11-09 19:35:23) Ramm ahora tiene 40 puntos de vida
+(2017-11-09 19:35:23) Ramm ataca con la espada a Julio
+(2017-11-09 19:35:23) Julio ahora tiene 70 puntos de vida

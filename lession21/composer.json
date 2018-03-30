@@ -1,0 +1,16 @@
+{
+  "name": "styde/oop",
+  "description": "Proyecto demo para el curso de programacion orientada a objetos",
+  "type": "project",
+  "license": "MIT",
+  "authors": [{
+    "name": "Julio Cesar",
+    "email": "admin@styde.net"
+  }],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Styde\\": "src/"
+    }
+  }
+}
